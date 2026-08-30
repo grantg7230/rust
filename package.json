@@ -1,0 +1,6 @@
+{
+  "name": "kit-lib80",
+  "version": "1.8.9",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
